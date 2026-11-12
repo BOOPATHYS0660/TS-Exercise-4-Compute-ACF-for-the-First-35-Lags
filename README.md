@@ -1,4 +1,4 @@
-# Time Series Exercise 4: Compute ACF for the First 35 Lags
+# TS Exercise 4: Compute ACF for the First 35 Lags
 
 ## Name: Boopathy S
 
